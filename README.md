@@ -1,8 +1,4 @@
-# AtaOnline
-
-## Objetivo do projeto
-
-Registrar presença de participantes em eventos.
+# CRUD USER
 
 ### Comandos
 ```sh
@@ -10,7 +6,7 @@ Registrar presença de participantes em eventos.
 ## versao angular: 17.3.11
 
 ## criar projeto
-ng new ata-online --no-standalone
+ng new crud-user --no-standalone
 ```
 
 ## Informações sobre Angular
